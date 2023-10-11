@@ -2,7 +2,7 @@
 
 You can also watch the entire implementation using the below YouTube video
 
-https://youtu.be/qLZ-s7wvK7w
+https://www.youtube.com/watch?v=ZOGeOmla5Sw&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=9 
 
 **NOTE**: REPLACE YOUR AWS ACCOUNT ID IN THE LAMBDA FUNCTION CODE.
 
